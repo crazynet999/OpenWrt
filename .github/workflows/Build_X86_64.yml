@@ -1,4 +1,4 @@
-name: 编译x86_64固件
+name: 编译x86_64固件20230928
 
 on:
   repository_dispatch:
